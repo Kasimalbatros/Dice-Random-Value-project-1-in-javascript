@@ -1,0 +1,5 @@
+Dice Coding Challenge video 131 Udemy
+
+Logical notes written in Copy...(See Javascript Code notes written atlast)
+
+Learn DOM this help you to do anything in javascript.

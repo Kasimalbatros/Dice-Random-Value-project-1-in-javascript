@@ -1,0 +1,5 @@
+What Actually Happens in Dice Coding ?(Concept)
+
+Ans:- Two Dices Genereates random rumber.
+the Dice having more number of Dots those player becomes the Winner.
+if both dice having same number of Dots then Match is going to be Draw.
